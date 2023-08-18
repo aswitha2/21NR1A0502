@@ -1,0 +1,49 @@
+03:45:21:261 2023.07.18 AutoPico 16.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Time Start: 18-07-2023 03:45:21
+
+03:45:21:261 Checking Internet Connection...
+03:45:21:281 Windows Detected: Windows 10 Pro : Professional : 6.3 : 19045
+03:45:21:291 Loading SECOH-QAD...
+03:45:21:291 Internet Connection Detected
+03:45:21:301 Synchronizing Time...
+03:45:21:301 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+03:45:21:301 Using host Forward: 10.160.134.58:1688
+03:45:21:301 Using host Local: 127.225.88.201:1688
+03:45:21:301 Using method: SECOH-QAD
+03:45:21:306 Opening Firewall Port...
+03:45:21:346 Opening Firewall App...
+03:45:21:391 KMSEmulator Port: 1688
+03:45:21:391 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+03:45:21:401 KMSEmulator running port: 1688
+03:45:21:406 Office 2010 Skipped
+03:45:21:406 Office 2016 Skipped
+03:45:21:406 Office 2013 Skipped
+03:45:21:685 Time synchronized
+03:45:22:069 Found Windows Products: 1
+03:45:22:069 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 259200
+LicenseStatus: 1
+PartialProductKey: T83GX
+GenuineStatus: 0
+
+03:45:22:085 DisableKeyManagementServiceHostCaching 0
+03:45:22:085 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+03:45:22:085 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+03:45:22:087 Activating Windows
+03:45:22:359 Windows(R), Professional edition was already Activated
+03:45:22:359 Set Registry : HKEY_USERS\S-1-5-20\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f\2de67392-b7a7-462a-b1ca-108dd189f588:DiscoveredKeyManagementServiceIpAddress
+03:45:22:359 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+03:45:22:359 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+03:45:22:359 ClearKeyManagementServiceMachine 0
+03:45:22:369 ClearKeyManagementServicePort 0
+03:45:22:369 Closing Firewall Port...
+03:45:22:399 Closing Firewall App...
+03:45:22:449 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+03:45:22:449 Unloading SECOH-QAD...
+03:45:22:449 Del Registry : SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe:
+03:45:22:449 Client listener shut down
+03:45:22:449 Time Finish: 18-07-2023 03:45:22
